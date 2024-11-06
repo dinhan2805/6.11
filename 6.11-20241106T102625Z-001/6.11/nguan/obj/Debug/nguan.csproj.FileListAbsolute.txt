@@ -1,0 +1,12 @@
+C:\Users\kocan\source\repos\nguan\nguan\bin\Debug\nguan.exe.config
+C:\Users\kocan\source\repos\nguan\nguan\bin\Debug\nguan.exe
+C:\Users\kocan\source\repos\nguan\nguan\bin\Debug\nguan.pdb
+C:\Users\kocan\source\repos\nguan\nguan\obj\Debug\nguan.csproj.AssemblyReference.cache
+C:\Users\kocan\source\repos\nguan\nguan\obj\Debug\nguan.Form1.resources
+C:\Users\kocan\source\repos\nguan\nguan\obj\Debug\nguan.Properties.Resources.resources
+C:\Users\kocan\source\repos\nguan\nguan\obj\Debug\nguan.csproj.GenerateResource.cache
+C:\Users\kocan\source\repos\nguan\nguan\obj\Debug\nguan.csproj.CoreCompileInputs.cache
+C:\Users\kocan\source\repos\nguan\nguan\obj\Debug\nguan.exe
+C:\Users\kocan\source\repos\nguan\nguan\obj\Debug\nguan.pdb
+C:\Users\kocan\source\repos\nguan\nguan\obj\Debug\nguan.quanlysanpham.resources
+C:\Users\kocan\source\repos\nguan\nguan\obj\Debug\nguan.AddEditProductForm.resources
